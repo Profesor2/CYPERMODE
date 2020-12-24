@@ -1,0 +1,19 @@
+{
+ "prefix": "prefix",
+ "sahip": "sahip id",
+ "token": "token",
+
+ "BanYetkilisi": "ban yetkili rol id",
+ "BanKanal": "ban log kanal id",
+
+ "KickYetkilisi": "kick yetkilisi rol id",
+ "KickKanal": "kick log kanal id",
+  
+ "JailYetkilisi": "jail yetkilisi rol id",
+ "JailRol": "jail atılınca verilcek rol id",
+ "JailKanal": "jail log kanal id",
+  
+ "MuteYetkilisi": "mute yetkili rol id",
+ "MuteRol": "mute atılınca verlck rol id",
+ "MuteKanal": "mute log kanal id"
+}
